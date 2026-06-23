@@ -21,8 +21,8 @@ As seguintes ferramentas e bibliotecas foram utilizadas no desenvolvimento:
 - Folium: Visualização interativa dos clusters em mapas.
 
 ## 🚀 Rodar o projeto
-``sh
+```sh
 python -m venv venv
 source venv/bin/activate  # No Windows: venv\Scripts\activate
 pip install -r requirements.txt
-``
+```
